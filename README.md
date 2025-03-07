@@ -3,7 +3,7 @@ This repository provides the code used for the analyses contained in the manuscr
 
 **Content of the repository**
 
-Modelling-practices.ipynb: Python Notebook code to generate Figures 2, 3, 4, and the numerical results reported in the manuscript text of the above manuscript. The code takes as input the file Modelling-practices_Survey-answers_Cleaned.csv, which contains the answers to the survey contained in the Supplementary Material of the above manuscript, after manual curation and cleaning. The code is implemented with Python 3.9.6 using Visual Studio Code 1.97.0
+Modelling-practices.ipynb: Python Notebook code to generate Figures 2, 3, 4, and the numerical results reported in the manuscript text of the above manuscript. The code takes as input the file Modelling-practices_Survey-answers_Cleaned.csv, which contains the answers to the survey contained in the Supplementary Material of the above manuscript, after manual curation and cleaning. The code is implemented with Python 3.9.6 using Visual Studio Code 1.97.0.
 
 **Additional notes**
 
